@@ -83,7 +83,6 @@ element {
 
 #mode-switcher {
     border:       0px 0px 0px ;
-    border-color: @separatorcolor;
 }
 
 #button {
