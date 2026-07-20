@@ -1,0 +1,6 @@
+{
+  "contextWindows": {
+    "grok-4.5": 256000,
+    "opus-latest@300k": 300000
+  }
+}

@@ -1,0 +1,4 @@
+auth.json
+sessions/
+npm/node_modules/
+cursor-sdk-model-list.json

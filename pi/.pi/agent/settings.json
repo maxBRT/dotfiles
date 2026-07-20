@@ -1,0 +1,20 @@
+{
+  "defaultModel": "grok-4.5",
+  "defaultProvider": "cursor",
+  "hideThinkingBlock": false,
+  "lastChangelogVersion": "0.80.10",
+  "packages": [
+    "npm:@ollama/pi-web-search",
+    "npm:pi-cursor-sdk"
+  ],
+  "theme": "dark",
+  "compaction": {
+    "enabled": false
+  },
+  "defaultThinkingLevel": "high",
+  "enabledModels": [
+    "cursor/opus-latest@300k",
+    "cursor/grok-4.5",
+    "cursor/gpt-5.6-sol@272k"
+  ]
+}
